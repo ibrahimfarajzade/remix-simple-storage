@@ -12,12 +12,14 @@ This is a basic Solidity smart contract named SimpleStorage, showcasing fundamen
 
 - **Mapping of Name to Favorite Number**: The contract uses a mapping (`nameToFavoriteNumber`) to associate names with their corresponding favorite numbers.
 
-## Usage
+## Getting Started
 
-1. Deploy the contract on a compatible Ethereum blockchain.
-2. Use the `store` function to set your favorite number.
-3. Retrieve the stored favorite number using the `retrieve` function.
-4. Add a person with a name and favorite number using the `addPerson` function.
+1. Go to [Remix](https://remix.ethereum.org/)
+2. Paste the code from `FundMe.sol` and `PriceConverter.sol` into new files in Remix
+3. Hit `Compile`
+4. Hit `Deploy`
+
+For a more in depth blog on working with remix, [read here](https://docs.chain.link/docs/deploy-your-first-contract/)
 
 ## Smart Contract Details
 
