@@ -1,4 +1,4 @@
-# Simple Storage
+# Remix Simple Storage
 
 This is a basic Solidity smart contract named SimpleStorage, showcasing fundamental concepts such as state variables, structs, arrays, and mappings.
 
